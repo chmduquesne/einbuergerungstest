@@ -1,0 +1,473 @@
+// vim: set spell spellang=de
+{
+  [
+    {
+      "F": "",
+      "A": {
+        "": False,
+        "": False,
+        "": False,
+        "": True
+      }
+    },
+    {
+      "F": "In Deutschland dürfen Menschen offen etwas gegen die Regierung sagen, weil...",
+      "A": {
+        "hier Religionsfreiheit gilt.": False,
+        "die Menschen Steuern zahlen.": False,
+        "die Menschen das Wahlrecht haben.": False,
+        "hier Meinungsfreiheit gilt.": True
+      }
+    },
+    {
+      "F": "In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schule am...",
+      "A": {
+        "Geschichtsunterricht teilnimmt.": False,
+        "Religionsunterricht teilnimmt.": True,
+        "Politikunterricht teilnimmt.": False,
+        "Sprachunterricht teilnimmt.": False
+      }
+    },
+    {
+      "F": "Deutschland ist ein Rechtsstaat. Was ist damit gemeint?",
+      "A": {
+        "Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten.": True,
+        "Der Staat muss sich nicht an die Gesetze halten.": False,
+        "Nur Deutsche müssen die Gesetze befolgen.": False,
+        "Die Gerichte machen die Gesetze.": True
+      }
+    },
+    {
+      "F": "Welches Recht gehört zu den Grundrechten in Deutschland?",
+      "A": {
+        "Waffenbesitz": False,
+        "Faustrecht": False,
+        "Meinungsfreiheit": True,
+        "Selbstjustiz": False
+      }
+    },
+    {
+      "F": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+      "A": {
+        "Man darf Geld annehmen, wenn man dafür einen bestimmten Kandidaten / eine bestimmte Kandidatin wählt.": False,
+        "Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.": False,
+        "Der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.": True,
+        "Alle wahlberechtigten Personen müssen wählen.": False
+      }
+    },
+    {
+      "F": "Wie heißt die deutsche Verfassung?",
+      "A": {
+        "Volksgesetz": False,
+        "Bundesgesetz": False,
+        "Deutsches Gesetz": False,
+        "Grundgesetz": True
+      }
+    },
+    {
+      "F": "Welches Recht gehört zu den Grundrechten, die nach der deutschen Verfassung garantiert werden? Das Recht auf...",
+      "A": {
+        "Glaubens- und Gewissensfreiheit.": True,
+        "Unterhaltung.": False,
+        "Arbeit.": False,
+        "Wohnung.": False
+      }
+    },
+    {
+      "F": "Was steht nicht im Grundgesetz von Deutschland?",
+      "A": {
+        "Die Würde des Menschen ist unantastbar.": False,
+        "Alle sollen gleich viel Geld haben.": True,
+        "Jeder Mensch darf seine Meinung sagen.": False,
+        "Alle sind vor dem Gesetz gleich.": False
+      }
+    },
+    {
+      "F": "Welches Grundrecht gilt in Deutschland nur für Ausländer/Ausländerinnen? Das Grundrecht auf...",
+      "A": {
+        "Schutz der Familie": False,
+        "Menschenwürde": False,
+        "Asyl": True,
+        "Meinungsfreiheit": False
+      }
+    },
+    {
+      "F": "Was ist mit dem deutschen Grundgesetz vereinbar?",
+      "A": {
+        "die Prügelstrafe": False,
+        "die Folter": False,
+        "die Todesstrafe": False,
+        "die Geldstrafe": True
+      }
+    },
+    {
+      "F": "Wie wird die Verfassung der Bundesrepublik Deutschland genannt?",
+      "A": {
+        "Grundgesetz": True,
+        "Bundesverfassung": False,
+        "Gesetzbuch": False,
+        "Verfassungsvertrag": False
+      }
+    },
+    {
+      "F": "Eine Partei im Deutschen Bundestag will die Pressefreiheit abschaffen. Ist das möglich?",
+      "A": {
+        "Ja, wenn mehr als die Hälfte der Abgeordneten im Bundestag dafür sind.": False,
+        "Ja, aber dazu müssen zwei Drittel der Abgeordneten im Bundestag dafür sein.": False,
+        "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.": True,
+        "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen.": False
+      }
+    },
+    {
+      "F": "Im Parlament steht der Begriff “Opposition” für...",
+      "A": {
+        "die regierenden Parteien.": False,
+        "die Fraktion mit den meisten Abgeordneten.": False,
+        "alle Parteien, die bei der letzten Wahl die 5%-Hürde erreichen konnten.": False,
+        "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.": True
+      }
+    },
+    {
+      "F": "Meinungsfreiheit in Deutschland heißt, dass ich...",
+      "A": {
+        "auf Flugblättern falsche Tatsachen behaupten darf.": False,
+        "meine Meinung in Leserbriefen äußern kann.": True,
+        "Nazi-Symbole tragen darf.": False,
+        "meine Meinung sagen darf, solange ich der Regierung nicht widerspreche.": False
+      }
+    },
+    {
+      "F": "Was verbietet das deutsche Grundgesetz?",
+      "A": {
+        "Militärdienst": False,
+        "Zwangsarbeit": True,
+        "freie Berufswahl": False,
+        "Arbeit im Ausland": False
+      }
+    },
+    {
+      "F": "Wann ist die Meinungsfreiheit in Deutschland eingeschränkt?",
+      "A": {
+        "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen": True,
+        "bei Meinungsäußerungen über die Bundesregierung": False,
+        "bei Diskussionen über Religionen": False,
+        "bei Kritik am Staat": False
+      }
+    },
+    {
+      "F": "Die deutschen Gesetze verbieten...",
+      "A": {
+        "Meinungsfreiheit der Einwohner und Einwohnerinnen.": False,
+        "Petitionen der Bürger und Bürgerinnen.": False,
+        "Versammlungsfreiheit der Einwohner und Einwohnerinnen.": False,
+        "Ungleichbehandlung der Bürger und Bürgerinnen durch den Staat. ": True
+      }
+    },
+    {
+      "F": "Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert?",
+      "A": {
+        "die Unantastbarkeit der Menschenwürde": True,
+        "das Recht auf Leben": False,
+        "Religionsfreiheit": False,
+        "Meinungsfreiheit": False
+      }
+    },
+    {
+      "F": "Was versteht man unter dem Recht der “Freizügigkeit” in Deutschland?",
+      "A": {
+        "Man darf sich seinen Wohnort selbst aussuchen.": True,
+        "Man kann seinen Beruf wechseln.": False,
+        "Man darf sich für eine andere Religion entscheiden.": False,
+        "Man darf sich in der Öffentlichkeit nur leicht bekleidet bewegen.": False
+      }
+    },
+    {
+      "F": "Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Sie ist dann...",
+      "A": {
+        "tolerant.": False,
+        "rechtsstaatlich orientiert.": False,
+        "gesetzestreu.": False,
+        "verfassungswidrig.": True
+      }
+    },
+    {
+      "F": "Welches ist das Wappen der Bundesrepublik Deutschland? (see http://oet.bamf.de/pls/oetut/f?p=514:30:0::NO:::)",
+      "A": {
+        "": True,
+        "": False,
+        "": False,
+        "": False
+      }
+    },
+    {
+      "F": "Was für eine Staatsform hat Deutschland?",
+      "A": {
+        "Monarchie": False,
+        "Diktatur": False,
+        "Republik": True,
+        "Fürstentum": False
+      }
+    },
+    {
+      "F": "In Deutschland sind die meisten Erwerbstätigen...",
+      "A": {
+        "in kleinen Familienunternehmen beschäftigt.": False,
+        "ehrenamtlich für ein Bundesland tätig.": False,
+        "selbständig mit einer eigenen Firma tätig.": False,
+        "bei einer Firma oder Behörde beschäftigt.": True
+      }
+    },
+    {
+      "F": "Wie viel Bundesländer hat die Bundesrepublik Deutschland?",
+      "A": {
+        "14": False,
+        "15": False,
+        "16": True,
+        "17": False
+      }
+    },
+    {
+      "F": "Was ist kein Bundesland der Bundesland Deutschland?",
+      "A": {
+        "Elsass-Lothringen": True,
+        "Nordrhein-Westfalen": False,
+        "Mecklenburg-Vorpommern": False,
+        "Sachsen-Anhalt": False
+      }
+    },
+    {
+      "F": "Deutschland ist...",
+      "A": {
+        "eine kommunistische Republik.": False,
+        "ein demokratischer und sozialer Bundesstaat.": True,
+        "eine kapitalistische und soziale Monarchie.": False,
+        "ein sozialer und sozialistischer Bundesstaat.": True
+      }
+    },
+    {
+      "F": "Deutschland ist...",
+      "A": {
+        "ein sozialistischer Staat.": False,
+        "ein Bundesstaat.": True,
+        "eine Diktatur.": False,
+        "eine Monarchie.": False
+      }
+    },
+    {
+      "F": "Wer wählt in Deutschland die Abgeordneten zum Bundestag?",
+      "A": {
+        "das Militär": False,
+        "die Wirtschaft": False,
+        "das wahlberechtigte Volk": True,
+        "die Verwaltung": False
+      }
+    },
+    {
+      "F": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
+      "A": {
+        "Löwe": False,
+        "Adler": True,
+        "Bär": False,
+        "Pferd": False
+      }
+    },
+    {
+      "F": "Was ist kein Merkmal unserer Demokratie?",
+      "A": {
+        "regelmäßige Wahlen": False,
+        "Pressezensur": True,
+        "Meinungsfreiheit": False,
+        "verschiedene Parteien": False
+      }
+    },
+    {
+      "F": "Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland...",
+      "A": {
+        "Einheit.": False,
+        "Koalition.": True,
+        "Ministerium.": False,
+        "Fraktion.": False
+      }
+    },
+    {
+      "F": "Was ist keine staatliche Gewalt in Deutschland?",
+      "A": {
+        "Gesetzgebung": False,
+        "Regierung": False,
+        "Presse": True,
+        "Rechtsprechung": False
+      }
+    },
+    {
+      "F": "Welche Aussage ist richtig? In Deutschland...",
+      "A": {
+        "sind Staat und Religionsgemeinschaften voneinander getrennt.": False,
+        "bilden die Religionsgemeinschaften den Staat.": False,
+        "ist der Staat abhängig von den Religionsgemeinschaften. ": False,
+        "bilden Staat und Religionsgemeinschaften eine Einheit.": True
+      }
+    },
+    {
+      "F": "Was ist Deutschland nicht?",
+      "A": {
+        "eine Demokratie": False,
+        "ein Rechtsstaat": False,
+        "eine Monarchie": True,
+        "ein Sozialstaat": False
+      }
+    },
+    {
+      "F": "Womit finanziert der deutsche Staat die Sozialversicherung?",
+      "A": {
+        "Kirchensteuern": False,
+        "Sozialabgaben": True,
+        "Spendengeldern": False,
+        "Vereinsbeiträgen": False
+      }
+    },
+    {
+      "F": "Welche Maßnahme schafft in Deutschland soziale Sicherheit?",
+      "A": {
+        "die Krankenversicherung": True,
+        "die Autoversicherung": False,
+        "die Gebäudeversicherung": False,
+        "die Haftpflichtversicherung": False
+      }
+    },
+    {
+      "F": "Wie werden die Regierungschefs/ Regierungschefinnen der meisten Bundesländer in Deutschland genannt?",
+      "A": {
+        "Erster Minister/ Erste Ministerin": False,
+        "Premierminister/ Premierministerin": False,
+        "Senator/ Senatorin": False,
+        "Ministerpräsident/ Ministerpräsidentin": True
+      }
+    },
+    {
+      "F": "Die Bundesrepublik Deutschland ist ein demokratischer und sozialer...",
+      "A": {
+        "Staatenverbund.": False,
+        "Bundesstaat. ": True,
+        "Staatenbund.": False,
+        "Zentralstaat. ": False
+      }
+    },
+    {
+      "F": "Was hat jedes deutsche Bundesland?",
+      "A": {
+        "einen eigenen Außenminister / eine eigene Außenministerin": False,
+        "eine eigene Währung": False,
+        "eine eigene Armee": False,
+        "eine eigene Regierung": True
+      }
+    },
+    {
+      "F": "Mit welchen Worten beginnt die deutsche Nationalhymne?",
+      "A": {
+        "Völker, hört die Signale ...": False,
+        "Einigkeit und Recht und Freiheit ...": True,
+        "Freude schöner Götterfunken ...": False,
+        "Deutschland einig Vaterland ...": False
+      }
+    },
+    {
+      "F": "Warum gibt es in einer Demokratie mehr als eine Partei?",
+      "A": {
+        "weil dadurch die unterschiedlichen Meinungen der Bürger und Bürgerinnen vertreten werden": True,
+        "damit Bestechung in der Politik begrenzt wird": False,
+        "um politische Demonstrationen zu verhindern": False,
+        "um wirtschaftlichen Wettbewerb anzuregen": False
+      }
+    },
+    {
+      "F": "Wer beschließt in Deutschland ein neues Gesetz",
+      "A": {
+        "die Regierung": False,
+        "das Parlament": True,
+        "die Gerichte": False,
+        "die Polizei": False
+      }
+    },
+    {
+      "F": "Wann kann in Deutschland eine Partei verboten werden?",
+      "A": {
+        "wenn ihr Wahlkampf zu teuer ist": False,
+        "wenn sie gegen die Verfassung kämpft": True,
+        "wenn sie Kritik am Staatsoberhaupt äußert": False,
+        "wenn ihr Programm eine neue Richtung vorschlägt": False
+      }
+    },
+    {
+      "F": "Wen kann man als Bürger/ Bürgerin in Deutschland nicht direkt wählen?",
+      "A": {
+        "Abgeordnete des EU-Parlaments": False,
+        "den Bundespräsidenten / die Bundespräsidentin": True,
+        "Landtagsabgeordnete": False,
+        "Bundestagsabgeordnete ": False
+      }
+    },
+    {
+      "F": "Zu welcher Versicherung gehört die Pflegeversicherung?",
+      "A": {
+        "Sozialversicherung": True,
+        "Unfallversicherung": False,
+        "Hausratversicherung": False,
+        "Haftpflicht- und Feuerversicherung": False
+      }
+    },
+    {
+      "F": "Der deutsche Staat hat viele Aufgaben. Welche Aufgaben gehört dazu?",
+      "A": {
+        "Er baut Straßen und Schulen.": True,
+        "Er verkauft Lebensmittel und Kleidung.": False,
+        "Er versorgt alle Einwohner und Einwohnerinnen kostenlos mit Zeitungen.": False,
+        "Er produziert Autos und Busse.": False
+      }
+    },
+    {
+      "F": "Der deutsche Staat hat viele Aufgaben. Welche Aufgaben gehört nicht dazu?",
+      "A": {
+        "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.": True,
+        "Er zahlt Kindergeld.": False,
+        "Er unterstützt Museen.": False,
+        "Er fördert Sportler und Sportlerinnen.": False
+      }
+    },
+    {
+      "F": "Welches Organ gehört nicht zu den Verfassungsorganen Deutschlands?",
+      "A": {
+        "der Bundesrat": False,
+        "der Bundespräsident / die Bundespräsidentin": False,
+        "die Bürgerversammlung": True,
+        "die Regierung": False
+      }
+    },
+    {
+      "F": "Wer bestimmt in Deutschland die Schulpolitik?",
+      "A": {
+        "die Lehrer und Lehrerinnen": False,
+        "die Bundesländer": True,
+        "das Familienministerium": False,
+        "die Universitäten": False
+      }
+    },
+    {
+      "F": "Die Wirtschaftsform in Deutschland nennt man...",
+      "A": {
+        "freie Zentralwirtschaft.": False,
+        "soziale Marktwirtschaft.": True,
+        "gelenkte Zentralwirtschaft.": False,
+        "Planwirtschaft.": False
+      }
+    },
+    {
+      "F": "Zu einem demokratischen Rechtsstaat gehört es nicht, dass...",
+      "A": {
+        "Menschen sich kritisch über die Regierung äußern können.": False,
+        "Bürger friedlich demonstrieren gehen dürfen.": False,
+        "Menschen von einer Privatpolizei ohne Grund verhaftet werden.": True,
+        "jemand ein Verbrechen begeht und deshalb verhaftet wird.": False
+      }
+    },
+  ]
+}
