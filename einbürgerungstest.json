@@ -469,5 +469,86 @@
         "jemand ein Verbrechen begeht und deshalb verhaftet wird.": False
       }
     },
+    {
+      "F": "Was bedeutet “Volkssouveränität”? Alle Staatsgewalt geht vom",
+      "A": {
+        "Volke aus.": True,
+        "Bundestag aus.": False,
+        "preußischen König aus.": False,
+        "Bundesverfassungsgericht aus.": False
+      }
+    },
+    {
+      "F": "Was bedeutet “Rechtsstaat” in Deutschland?",
+      "A": {
+        "Der Staat hat Recht": False,
+        "Es gibt nur rechte Parteien": False,
+        "Die Bürger und Bürgerinnen entscheiden über Gesetze": False,
+        "Der Staat muss die Gesetze einhalten.": True
+      }
+    },
+    {
+      "F": "Was ist keine staatliche Gewalt in Deutschland?",
+      "A": {
+        "Legislative": False,
+        "Judikative": False,
+        "Exekutive": False,
+        "Direktive": True
+      }
+    },
+    {
+      "F": "Was zeigt dieses Bild? http://oet.bamf.de/pls/oetut/f?p=514:30:0::NO:::",
+      "A": {
+        "den Bundestagssitz in Berlin": True,
+        "das Bundesverfassungsgericht in Karlsruhe": False,
+        "das Bundesratsgebäude in Berlin": False,
+        "das Bundeskanzleramt in Berlin": False
+      }
+    },
+    {
+      "F": "Welche Amt gehört in Deutschland zur Gemeindeverwaltung?",
+      "A": {
+        "Pfarramt": False,
+        "Ordnungsamt": True,
+        "Finanzamt": False,
+        "Auswärtiges Amt": False
+      }
+    },
+    {
+      "F": "Wer wird meistens zum Präsidenten/ zur Präsidentin des Deutschen Bundestages gewählt?",
+      "A": {
+        "der / die älteste Abgeordnete im Parlament": False,
+        "der Ministerpräsident / die Ministerpräsidentin des größten Bundeslandes": False,
+        "ein ehemaliger Bundeskanzler / eine ehemalige Bundeskanzlerin": False,
+        "ein Abgeordneter / eine Abgeordnete der stärksten Fraktion": True
+      }
+    },
+    {
+      "F": "Wer ernennt in Deutschland die Minister/ die Ministerinnen der Bundesregierung?",
+      "A": {
+        "der Präsident / die Präsidentin des Bundesverfassungsgerichtes": False,
+        "der Bundespräsident / die Bundespräsidentin": True,
+        "der Bundesratspräsident / die Bundesratspräsidentin": False,
+        "der Bundestagspräsident / die Bundestagspräsidentin": False
+      }
+    },
+    {
+      "F": "Welche Parteien wurden in Deutschland 2007 zur Partei “Die Linke”?",
+      "A": {
+        "CDU und SSW ": False,
+        "PDS und WASG": True,
+        "CSU und FDP": False,
+        "Bündnis 90/Die Grünen und SPD": False
+      }
+    },
+    {
+      "F": "In Deutschland gehören der Bundestag und der Bundesrat zur...",
+      "A": {
+        "Exekutive.": False,
+        "Legislative.": True,
+        "Direktive.": False,
+        "Judikative.": False
+      }
+    },
   ]
 }
