@@ -721,5 +721,32 @@
         "Freie Demokratische Partei": True
       }
     },
+    {
+      "F": "Welches Gericht in Deutschland ist zuständig für die Auslegung des Grundgesetzes?",
+      "A": {
+        "Oberlandesgericht": False,
+        "Amtsgericht": False,
+        "Bundesverfassungsgericht": True,
+        "Verwaltungsgericht": False
+      }
+    },
+    {
+      "F": "Wer wählt den Bundeskanzler/ die Bundeskanzlerin in Deutschland?",
+      "A": {
+        "der Bundesrat": False,
+        "die Bundesversammlung": False,
+        "das Volk": False,
+        "der Bundestag": True
+      }
+    },
+    {
+      "F": "Wer leitet das deutsches Bundeskabinett?",
+      "A": {
+        "der Bundestagspräsident / die Bundestagspräsidentin": False,
+        "der Bundespräsident / die Bundespräsidentin": False,
+        "der Bundesratspräsident / die Bundesratspräsidentin": False,
+        "der Bundeskanzler / die Bundeskanzlerin ": True
+      }
+    },
   ]
 }
