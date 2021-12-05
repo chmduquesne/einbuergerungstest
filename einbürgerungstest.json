@@ -550,5 +550,158 @@
         "Judikative.": False
       }
     },
+    {
+      "F": "Was bedeutet “Volkssouveränität”?",
+      "A": {
+        "Der König / die Königin herrscht über das Volk.": False,
+        "Das Bundesverfassungsgericht steht über der Verfassung.": False,
+        "Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus. ": False,
+        "Die Staatsgewalt geht vom Volke aus.": True
+      }
+    },
+    {
+      "F": "Wenn das Parlament eines deutsches Bundeslandes gewählt wird, nennt man das...",
+      "A": {
+        "Kommunalwahl.": False,
+        "Landtagswahl.": True,
+        "Europawahl.": False,
+        "Bundestagswahl": False
+      }
+    },
+    {
+      "F": "Was gehört in Deutschland nicht zur Exekutive?",
+      "A": {
+        "die Polizei": False,
+        "die Gerichte": True,
+        "das Finanzamt": False,
+        "die Ministerien": False
+      }
+    },
+    {
+      "F": "Die Bundesrepublik Deutschland ist heute geglidert in...",
+      "A": {
+        "vier Besatzungszonen.": False,
+        "einen Oststaat und einen Weststaat.": False,
+        "16 Kantone.": False,
+        "Bund, Länder und Kommunen.": True
+      }
+    },
+    {
+      "F": "Es gehört nicht zu den Aufgaben des Deutschen Bundestages, ...",
+      "A": {
+        "Gesetze zu entwerfen.": False,
+        "die Bundesregierung zu kontrollieren.": False,
+        "den Bundeskanzler / die Bundeskanzlerin zu wählen.": False,
+        "das Bundeskabinett zu bilden.": True
+      }
+    },
+    {
+      "F": "Wer schrieb den Text zur deutschen Nationalhymne?",
+      "A": {
+        "Friedrich von Schiller": False,
+        "Clemens Brentano": False,
+        "Johann Wolfgang von Goethe": False,
+        "Heinrich Hoffmann von Fallersleben": True
+      }
+    },
+    {
+      "F": "Was ist in Deutschland vor allem eine Aufgabe der Bundesländer?",
+      "A": {
+        "Verteidigungspolitik": False,
+        "Außenpolitik": False,
+        "Wirtschaftspolitik": False,
+        "Schulpolitik": True
+      }
+    },
+    {
+      "F": "Warum kontrolliert der Staat in Deutschland das Schulwesen?",
+      "A": {
+        "weil es in Deutschland nur staatliche Schulen gibt": False,
+        "weil alle Schüler und Schülerinnen einen Schulabschluss haben müssen": False,
+        "weil es in den Bundesländern verschiedene Schulen gibt": False,
+        "weil es nach dem Grundgesetz seine Aufgabe ist": True
+      }
+    },
+    {
+      "F": "Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie heißt die unterste politische Stufe?",
+      "A": {
+        "Stadträte": False,
+        "Landräte": False,
+        "Gemeinden": True,
+        "Bezirksämter": False
+      }
+    },
+    {
+      "F": "Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben des deutschen Bundespräsidenten/ der deutschen Bundespräsidentin?",
+      "A": {
+        "Er / Sie führt die Regierungsgeschäfte.": False,
+        "Er / Sie kontrolliert die Regierungspartei. ": False,
+        "Er / Sie wählt die Minister / Ministerinnen aus.": False,
+        "Er / Sie schlägt den Kanzler / die Kanzlerin zur Wahl vor.": True
+      }
+    },
+    {
+      "F": "Wo hält sich der deutsche Bundeskanzler/ die deutsche Bundeskanzlerin am häufigsten auf?",
+      "A": {
+        "in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.": False,
+        "auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.": False,
+        "auf Schloss Bellevue, dem Amtssitz des Bundespräsidenten / der Bundespräsidentin, um Staatsgäste zu empfangen.": False,
+        "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.": True
+      }
+    },
+    {
+      "F": "Wie heißt der jetzige Bundeskanzler/ die jetzige Bundeskanzlerin von Deutschland?",
+      "A": {
+        "Gerhard Schröder": False,
+        "Jürgen Rüttgers": False,
+        "Klaus Wowereit": False,
+        "Angela Merkel": True
+      }
+    },
+    {
+      "F": "Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit...",
+      "A": {
+        "CDU/CSU und SPD.": True,
+        "Die Linke und Bündnis 90/Die Grünen.": False,
+        "FDP und SPD.": False,
+        "Die Linke und FDP.": False
+      }
+    },
+    {
+      "F": "Wie heißt das Parlament für ganz Deutschland?",
+      "A": {
+        "Bundesversammlung": False,
+        "Volkskammer": False,
+        "Bundestag": True,
+        "Bundesgerichtshof": False
+      }
+    },
+    {
+      "F": "Wie heißt Deutschlands heutiges Staatsoberhaupt?",
+      "A": {
+        "Frank-Walter Steinmeier": True,
+        "Norbert Lammert": False,
+        "Wolfgang Thierse": False,
+        "Edmund Stoiber": False
+      }
+    },
+    {
+      "F": "Was bedeutet die Abkürzung CDU in Deutschland?",
+      "A": {
+        "Christliche Deutsche Union": False,
+        "Club Deutscher Unternehmer": False,
+        "Christlicher Deutscher Umweltschutz ": False,
+        "Christlich Demokratische Union": True
+      }
+    },
+    {
+      "F": "Was ist die Bundeswehr?",
+      "A": {
+        "die deutsche Polizei": False,
+        "ein deutscher Hafen": False,
+        "eine deutsche Bürgerinitiative": False,
+        "die deutsche Armee": True
+      }
+    },
   ]
 }
