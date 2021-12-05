@@ -703,5 +703,23 @@
         "die deutsche Armee": True
       }
     },
+    {
+      "F": "Was bedeutet die Abkürzung SPD?",
+      "A": {
+        "Sozialistische Partei Deutschlands": False,
+        "Sozialpolitische Partei Deutschlands": False,
+        "Sozialdemokratische Partei Deutschlands": True,
+        "Sozialgerechte Partei Deutschlands": False
+      }
+    },
+    {
+      "F": "Was bedeutet die Abkürzung FDP in Deutschland?",
+      "A": {
+        "Friedliche Demonstrative Partei": False,
+        "Freie Deutschland Partei": False,
+        "Führende Demokratische Partei": False,
+        "Freie Demokratische Partei": True
+      }
+    },
   ]
 }
