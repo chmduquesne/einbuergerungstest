@@ -1145,5 +1145,41 @@
         "eine Benachrichtigung vom Pfarramt": False
       }
     },
+    {
+      "F": "Warum gibt es die 5%-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil...",
+      "A": {
+        "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.": False,
+        "die Bürger und Bürgerinnen bei vielen kleinen Parteien die Orientierung verlieren können.": False,
+        "viele kleine Parteien die Regierungsbildung erschweren.": True,
+        "die kleinen Parteien nicht so viel Geld haben, um die Politiker und Politikerinnen zu bezahlen.": False
+      }
+    },
+    {
+      "F": "Parlamentsmidglieder, die von den Bürgern und Bürgerinnen gewählt werden, nennt man...",
+      "A": {
+        "Abgeordnete.": True,
+        "Kanzler / Kanzlerinnen.": False,
+        "Botschafter / Botschafterinnen.": False,
+        "Ministerpräsidenten / Ministerpräsidentinnen.": False
+      }
+    },
+    {
+      "F": "Vom Volk gewählt wird in Deutschland...",
+      "A": {
+        "der Bundeskanzler / die Bundeskanzlerin.": False,
+        "der Ministerpräsident / die Ministerpräsidentin eines Bundeslandes.": False,
+        "der Bundestag.": False,
+        "der Bundespräsident / die Bundespräsidentin.": True
+      }
+    },
+    {
+      "F": "Welcher Stimmzettel wäre bein einer Bundestagswahl gültig? http://oet.bamf.de/pls/oetut/f?p=514:30:0::NO:::",
+      "A": {
+        "": True,
+        "": False,
+        "": False,
+        "": False
+      }
+    },
   ]
 }
