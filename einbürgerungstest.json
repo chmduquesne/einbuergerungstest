@@ -748,5 +748,167 @@
         "der Bundeskanzler / die Bundeskanzlerin ": True
       }
     },
+    {
+      "F": "Wer wählt den deutschen Bundeskanzler/ die deutsche Bundeskanzlerin?",
+      "A": {
+        "das Volk": False,
+        "die Bundesversammlung": False,
+        "der Bundestag": True,
+        "die Bundesregierung": False
+      }
+    },
+    {
+      "F": "Welche Hauptaufgabe hat der deutsche Bundespräsident/ die deutsche Bundespräsidentin? Er/ Sie...",
+      "A": {
+        "regiert das Land.": False,
+        "entwirft die Gesetze.": False,
+        "repräsentiert das Land.": True,
+        "überwacht die Einhaltung der Gesetze.": False
+      }
+    },
+    {
+      "F": "Wer bildet den deutschen Bundesrat?",
+      "A": {
+        "die Abgeordneten des Bundestages": False,
+        "die Minister und Ministerinnen der Bundesregierung": False,
+        "die Regierungsvertreter der Bundesländer": True,
+        "die Parteimitglieder": False
+      }
+    },
+    {
+      "F": "Wer wählt in Deutschland den Bundespräsidenten/ die Bundespräsidentin?",
+      "A": {
+        "die Bundesversammlung": True,
+        "der Bundesrat": False,
+        "das Bundesparlament": False,
+        "das Bundesverfassungsgericht": False
+      }
+    },
+    {
+      "F": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+      "A": {
+        "der Bundeskanzler / die Bundeskanzlerin": False,
+        "der Bundespräsident / die Bundespräsidentin": True,
+        "der Bundesratspräsident / die Bundesratspräsidentin": False,
+        "der Bundestagspräsident / die Bundestagspräsidentin": False
+      }
+    },
+    {
+      "F": "Die parlamentarische Opposition im Deutschen Bundestag...",
+      "A": {
+        "kontrolliert die Regierung.": True,
+        "entscheidet, wer Bundesminister / Bundesministerin wird.": False,
+        "bestimmt, wer im Bundesrat sitzt.": False,
+        "schlägt die Regierungschefs / Regierungschefinnen der Länder vor.": False
+      }
+    },
+    {
+      "F": "Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?",
+      "A": {
+        "Verband": False,
+        "Ältestenrat": False,
+        "Fraktion": True,
+        "Opposition": False
+      }
+    },
+    {
+      "F": "Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch...",
+      "A": {
+        "den Bundesrat.": True,
+        "die Bundesversammlung.": False,
+        "den Bundestag.": False,
+        "die Bundesregierung.": False
+      }
+    },
+    {
+      "F": "In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird...",
+      "A": {
+        "schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.": False,
+        "leichter, wenn dadurch neue Parteien in den Bundesrat kommen.": False,
+        "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.": True,
+        "leichter, wenn es sich um ein reiches Bundesland handelt.": False
+      }
+    },
+    {
+      "F": "Was bedeutet die Abkürzung CSU in Deutschland?",
+      "A": {
+        "Christlich Sichere Union": False,
+        "Christlich Süddeutsche Union": False,
+        "Christlich Sozialer Unternehmerverband": False,
+        "Christlich Soziale Union": True
+      }
+    },
+    {
+      "F": "Je mehr “Zweistimmen” eine Partei bei einer Bundestagswahl bekommt, desto...",
+      "A": {
+        "weniger Erststimmen kann sie haben.": False,
+        "mehr Direktkandidaten der Partei ziehen ins Parlament ein.": False,
+        "größer ist das Risiko, eine Koalition bilden zu müssen.": False,
+        "mehr Sitze erhält die Partei im Parlament.": True
+      }
+    },
+    {
+      "F": "Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?",
+      "A": {
+        "16": False,
+        "18": True,
+        "21": False,
+        "23": False
+      }
+    },
+    {
+      "F": "Was gilt für die meisten Kinder in Deutschland?",
+      "A": {
+        "Wahlpflicht": False,
+        "Schulpflicht": True,
+        "Schweigepflicht": False,
+        "Religionspflicht": False
+      }
+    },
+    {
+      "F": "Was muss jeder deutsche Staatsbürger/ jede deutsche Staatsbürgerin ab dem 16. Lebensjahr besitzen?",
+      "A": {
+        "einen Reisepass": False,
+        "einen Personalausweis": True,
+        "einen Sozialversicherungsausweis": False,
+        "einen Führerschein": False
+      }
+    },
+    {
+      "F": "Was bezahlt man in Deutschland automatisch, wenn man fest andgestellt ist?",
+      "A": {
+        "Sozialversicherung": True,
+        "Sozialhilfe": False,
+        "Kindergeld": False,
+        "Wohngeld": False
+      }
+    },
+    {
+      "F": "Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, ...",
+      "A": {
+        "dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.": False,
+        "kann die Regierung ihre Mehrheit verlieren.": True,
+        "muss der Bundespräsident / die Bundespräsidentin zuvor sein / ihr Einverständnis geben.": False,
+        "dürfen die Wähler / Wählerinnen dieser Abgeordneten noch einmal wählen.": False
+      }
+    },
+    {
+      "F": "Wer bezahlt in Deutschland die Sozialversicherungen?",
+      "A": {
+        "Arbeitgeber / Arbeitgeberinnen und Arbeitnehmer / Arbeitnehmerinnen": True,
+        "nur Arbeitnehmer / Arbeitnehmerinnen": False,
+        "alle Staatsangehörigen": False,
+        "nur Arbeitgeber / Arbeitgeberinnen": False
+      }
+    },
+    {
+      "F": "Was gehört nicht zur gesetzlichen Sozialversicherung?",
+      "A": {
+        "die Lebensversicherung": False,
+        "die gesetzliche Rentenversicherung": False,
+        "die Arbeitslosenversicherung": False,
+        "die Pflegeversicherung": True
+      }
+    },
   ]
 }
