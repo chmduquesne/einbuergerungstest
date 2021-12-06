@@ -1175,10 +1175,46 @@
     {
       "F": "Welcher Stimmzettel wäre bein einer Bundestagswahl gültig? http://oet.bamf.de/pls/oetut/f?p=514:30:0::NO:::",
       "A": {
-        "": True,
-        "": False,
-        "": False,
-        "": False
+        "1": True,
+        "2": False,
+        "3": False,
+        "4": False
+      }
+    },
+    {
+      "F": "In Deutschland ist ein Bürgermeister/ eine Bürgermeisterin...",
+      "A": {
+        "der Leiter / die Leiterin einer Schule.": False,
+        "der Chef / die Chefin einer Bank.": False,
+        "das Oberhaupt einer Gemeinde.": True,
+        "der / die Vorsitzende einer Partei. ": False
+      }
+    },
+    {
+      "F": "Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?",
+      "A": {
+        "Sie arbeiten als Soldaten / Soldatinnen.": False,
+        "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.": True,
+        "Sie arbeiten in der Bundesregierung.": False,
+        "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld.": False
+      }
+    },
+    {
+      "F": "Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?",
+      "A": {
+        "Der Ehemann wählt für seine Frau mit. ": False,
+        "Man kann durch Briefwahl seine Stimme abgeben.": True,
+        "Man kann am Wahltag telefonisch seine Stimme abgeben.": False,
+        "Kinder ab dem Alter von 14 Jahren dürfen wählen.": False
+      }
+    },
+    {
+      "F": "Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?",
+      "A": {
+        "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.": True,
+        "Ich werde Mitglied in einem Sportverein und trainiere Radfahren.": False,
+        "Ich wende mich an das Finanzamt, weil ich als Steuerzahler / Steuerzahlerin ein Recht auf die Buslinie habe.": False,
+        "Ich schreibe einen Brief an das Forstamt der Gemeinde.": False
       }
     },
   ]
