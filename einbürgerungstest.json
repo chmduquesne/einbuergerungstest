@@ -1103,10 +1103,10 @@
     {
       "F": "Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind...",
       "A": {
-        "frei, gleich, geheim.": False,
+        "frei, gleich, geheim.": True,
         "offen, sicher, frei.": False,
         "geschlossen, gleich, sicher.": False,
-        "sicher, offen, freiwillig.": True
+        "sicher, offen, freiwillig.": False
       }
     },
     {
@@ -1134,6 +1134,15 @@
         "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.": True,
         "im Land bestehende Gesetze beizubehalten.": False,
         "den Armen mehr Macht zu geben.": False
+      }
+    },
+    {
+      "F": "Was bekommen wahlberechtige Bürger und Bürgerinnen in Deutschland vor einer Wahl?",
+      "A": {
+        "eine Wahlbenachrichtigung von der Gemeinde": True,
+        "eine Wahlerlaubnis vom Bundespräsidenten / von der Bundespräsidentin": False,
+        "eine Benachrichtigung von der Bundesversammlung": False,
+        "eine Benachrichtigung vom Pfarramt": False
       }
     },
   ]
