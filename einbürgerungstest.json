@@ -1,4 +1,5 @@
 // vim: set spell spellang=de
+// “”
 {
   [
     {
@@ -908,6 +909,231 @@
         "die gesetzliche Rentenversicherung": False,
         "die Arbeitslosenversicherung": False,
         "die Pflegeversicherung": True
+      }
+    },
+    {
+      "F": "Gewerkschaften sind Interessenverbände der...",
+      "A": {
+        "Jugendlichen.": False,
+        "Arbeitnehmer und Arbeitnehmerinnen.": True,
+        "Rentner und Rentnerinnen.": False,
+        "Arbeitgeber und Arbeitgeberinnen.": False
+      }
+    },
+    {
+      "F": "Womit kann man in der Bundesrepublik Deutschland geeht werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem...",
+      "A": {
+        "Bundesverdienstkreuz": True,
+        "Bundesadler": False,
+        "Vaterländischen Verdienstorden": False,
+        "Ehrentitel “Held der Deutschen Demokratischen Republik”": False
+      }
+    },
+    {
+      "F": "Was wird in Deutschland als “Ampelkoalition” bezeichnet? Die Zusammenarbeit...",
+      "A": {
+        "der Bundestagsfraktionen von CDU und CSU": False,
+        "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung": True,
+        "von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung": False,
+        "der Bundestagsfraktionen von CDU und SPD": False
+      }
+    },
+    {
+      "F": "Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?",
+      "A": {
+        "Die Frau ist lange krank und arbeitsunfähig.": False,
+        "Die Frau kam oft zu spät zur Arbeit.": False,
+        "Die Frau erledigt private Sachen während der Arbeitszeit.": False,
+        "Die Frau bekommt ein Kind und ihr Chef weiß das.": True
+      }
+    },
+    {
+      "F": "Was ist eine Aufgabe von Wahlhelfern/ Wahlhelferinnen in Deutschland?",
+      "A": {
+        "Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.": False,
+        "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.": False,
+        "Sie geben Zwischenergebnisse an die Medien weiter.": False,
+        "Sie zählen die Stimmen nach dem Ende der Wahl.": True
+      }
+    },
+    {
+      "F": "In Deutschland helfen ehrenamtliche Wahlhelfer und Wahlhelferinnen bei den Wahlen. Was ist eine Aufgabe von Wahlhelfern/ Wahlhelferinnen?",
+      "A": {
+        "Sie helfen Kindern und alten Menschen beim Wählen.": False,
+        "Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.": False,
+        "Sie geben Zwischenergebnisse an Journalisten weiter.": False,
+        "Sie zählen die Stimmen nach dem Ende der Wahl.": True
+      }
+    },
+    {
+      "F": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+      "A": {
+        "2 Jahre": False,
+        "4 Jahre": True,
+        "6 Jahre": False,
+        "8 Jahre": False
+      }
+    },
+    {
+      "F": "Bei Bundestagswahl in Deutschland darf jeder wählen, der...",
+      "A": {
+        "in der Bundesrepublik Deutschland wohnt und wählen möchte.": False,
+        "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.": True,
+        "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.": False,
+        "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist.": False
+      }
+    },
+    {
+      "F": "Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?",
+      "A": {
+        "alle drei Jahre": False,
+        "alle vier Jahre": True,
+        "alle fünf Jahre ": False,
+        "alle sechs Jahre": False
+      }
+    },
+    {
+      "F": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+      "A": {
+        "2 Jahre": False,
+        "3 Jahre": False,
+        "4 Jahre": True,
+        "5 Jahre": False
+      }
+    },
+    {
+      "F": "In Deutschland darf man wählen. Was bedeutet das?",
+      "A": {
+        "Alle deutschen Staatsangehörigen dürfen wählen, wenn sie das Mindestalter erreicht haben.": True,
+        "Nur verheiratete Personen dürfen wählen.": False,
+        "Nur Personen mit einem festen Arbeitsplatz dürfen wählen.": False,
+        "Alle Einwohner und Einwohnerinnen in Deutschland müssen wählen.": False
+      }
+    },
+    {
+      "F": "Die Wahlen in Deutschland sind...",
+      "A": {
+        "speziell.": False,
+        "geheim.": True,
+        "berufsbezogen.": False,
+        "geschlechtsabhängig.": False
+      }
+    },
+    {
+      "F": "Wahlen in Deutschland gewinnt die Partei, die...",
+      "A": {
+        "die meisten Stimmen bekommt.": True,
+        "die meisten Männer mehrheitlich gewählt haben.": False,
+        "die meisten Stimmen bei den Arbeitern / Arbeiterinnen bekommen hat.": False,
+        "die meisten Erststimmen für ihren Kanzlerkandidaten / ihre Kanzlerkandidatin erhalten hat.": False
+      }
+    },
+    {
+      "F": "An demokratischen Wahlen in Deutschland teilzunehmen ist...",
+      "A": {
+        "eine Pflicht.": False,
+        "ein Recht.": True,
+        "ein Zwang.": False,
+        "eine Last.": False
+      }
+    },
+    {
+      "F": "Was bedeutet “aktives Wahlrecht” in Deutschland?",
+      "A": {
+        "Man kann gewählt werden.": False,
+        "Man muss wählen gehen.": False,
+        "Man kann wählen.": True,
+        "Man muss zur Auszählung der Stimmen gehen.": False
+      }
+    },
+    {
+      "F": "Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das...",
+      "A": {
+        "aktive Wahlkampagne.": False,
+        "aktives Wahlverfahren.": False,
+        "aktiver Wahlkampf.": False,
+        "aktives Wahlrecht.": True
+      }
+    },
+    {
+      "F": "Wie viel Prozent der Zweistimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?",
+      "A": {
+        "3%": False,
+        "4%": False,
+        "5%": True,
+        "6%": False
+      }
+    },
+    {
+      "F": "Was regelt das Wahlrecht in Deutschland?",
+      "A": {
+        "Wer wählen darf, muss wählen.": False,
+        "Alle die wollen, können wählen.": False,
+        "Wer nicht wählt, verliert das Recht zu wählen.": False,
+        "Wer wählen darf, kann wählen.": True
+      }
+    },
+    {
+      "F": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+      "A": {
+        "Alle verurteilten Straftäter / Straftäterinnen dürfen nicht wählen.": False,
+        "Wenn ich wählen gehen möchte, muss mein Arbeitgeber / meine Arbeitgeberin mir frei geben.": False,
+        "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.": True,
+        "Ich kann frei entscheiden, wo ich wählen gehen möchte.": False
+      }
+    },
+    {
+      "F": "Das Wahlsystem in Deutschland ist ein...",
+      "A": {
+        "Zensuswahlrecht.": False,
+        "Dreiklassenwahlrecht.": False,
+        "Mehrheits- und Verhältniswahlrecht.": True,
+        "allgemeines Männerwahlrecht.": False
+      }
+    },
+    {
+      "F": "Eine Partei möchte in den Deuschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt...",
+      "A": {
+        "5%-Hürde. ": True,
+        "Zulassungsgrenze.": False,
+        "Basiswert.": False,
+        "Richtlinie.": False
+      }
+    },
+    {
+      "F": "Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind...",
+      "A": {
+        "frei, gleich, geheim.": False,
+        "offen, sicher, frei.": False,
+        "geschlossen, gleich, sicher.": False,
+        "sicher, offen, freiwillig.": True
+      }
+    },
+    {
+      "F": "Was ist in Deutschland die “5%-Hürde”?",
+      "A": {
+        "Abstimmungsregelung im Bundestag für kleine Parteien": False,
+        "Anwesenheitskontrolle im Bundestag für Abstimmungen": False,
+        "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen": True,
+        "Anwesenheitskontrolle im Bundesrat für Abstimmungen": False
+      }
+    },
+    {
+      "F": "Die Bundestagswahl in Deutschland ist die Wahl...",
+      "A": {
+        "des Bundeskanzlers / der Bundeskanzlerin.": False,
+        "der Parlamente der Länder.": False,
+        "des Parlaments für Deutschland.": True,
+        "des Bundespräsidenten / der Bundespräsidentin.": False
+      }
+    },
+    {
+      "F": "In einer Demokratie ist eine Funktion von regelmäßigen Wahlen,...",
+      "A": {
+        "die Bürger und Bürgerinnen zu zwingen, ihre Stimme abzugeben.": False,
+        "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.": True,
+        "im Land bestehende Gesetze beizubehalten.": False,
+        "den Armen mehr Macht zu geben.": False
       }
     },
   ]
