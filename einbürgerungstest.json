@@ -1217,5 +1217,149 @@
         "Ich schreibe einen Brief an das Forstamt der Gemeinde.": False
       }
     },
+    {
+      "F": "Wen vertreten die Gewerkschaften in Deutschland?",
+      "A": {
+        "große Unternehmen": False,
+        "kleine Unternehmen": False,
+        "Selbständige": False,
+        "Arbeitnehmer und Arbeitnehmerinnen": True
+      }
+    },
+    {
+      "F": "Sie gehen in Deutschland zum Arbeitsgericht bei...",
+      "A": {
+        "falscher Nebenkostenabrechnung.": False,
+        "ungerechtfertigter Kündigung durch Ihren Chef / Ihre Chefin.": True,
+        "Problemen mit den Nachbarn / Nachbarinnen.": False,
+        "Schwierigkeiten nach einem Verkehrsunfall.": False
+      }
+    },
+    {
+      "F": "Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?",
+      "A": {
+        "das Familiengericht": False,
+        "das Strafgericht": False,
+        "das Arbeitsgericht": True,
+        "das Amtsgericht": False
+      }
+    },
+    {
+      "F": "Was kann ich in Deutschland machen, wenn mir mein Arbeitgeber/ meine Arbeitgeberin zu Unrecht gekündigt hat?",
+      "A": {
+        "weiter arbeiten und freundlich zum Chef / zur Chefin sein": False,
+        "ein Mahnverfahren gegen den Arbeitgeber / die Arbeitgeberin führen": False,
+        "Kündigungsschutzklage erheben": True,
+        "den Arbeitgeber / die Arbeitgeberin bei der Polizei anzeigen": False
+      }
+    },
+    {
+      "F": "Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand...",
+      "A": {
+        "zu einer anderen Religion übertritt.": False,
+        "eine Straftat begangen hat und angeklagt wird.": True,
+        "eine andere Meinung als die der Regierung vertritt.": False,
+        "sein Auto falsch geparkt hat und es abgeschleppt wird.": False
+      }
+    },
+    {
+      "F": "Was macht ein Schöffe/ eine Schöffin in Deutschland? Er/Sie...",
+      "A": {
+        "entscheidet mit Richtern / Richterinnen über Schuld und Strafe.": True,
+        "gibt Bürgern / Bürgerinnen rechtlichen Rat.": False,
+        "stellt Urkunden aus.": False,
+        "verteidigt den Angeklagten / die Angeklagte.": False
+      }
+    },
+    {
+      "F": "Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?",
+      "A": {
+        "ein Rechtsanwalt / eine Rechtsanwältin": True,
+        "ein Richter / eine Richterin": False,
+        "ein Schöffe / eine Schöffin": False,
+        "ein Staatsanwalt / eine Staatsanwältin": False
+      }
+    },
+    {
+      "F": "Was ist die Hauptaufgabe eines Richters/ einer Richterin in Deutschland? Ein Richter/ eine Richterin...",
+      "A": {
+        "vertritt Bürger und Bürgerinnen vor einem Gericht.": False,
+        "arbeitet an einem Gericht und spricht Urteile.": True,
+        "ändert Gesetze.": False,
+        "betreut Jugendliche vor Gericht.": False
+      }
+    },
+    {
+      "F": "Ein Richter/ eine Richterin in Deutschland gehört zur...",
+      "A": {
+        "Judikative.": True,
+        "Exekutive.": False,
+        "Operative.": False,
+        "Legislative.": False
+      }
+    },
+    {
+      "F": "Ein Richter/ eine Richterin gehört in Deutschland zur...",
+      "A": {
+        "vollziehenden Gewalt.": False,
+        "rechtsprechenden Gewalt.": True,
+        "planenden Gewalt.": False,
+        "gesetzgebenden Gewalt.": False
+      }
+    },
+    {
+      "F": "In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet ein Richter/ eine Richterin?",
+      "A": {
+        "Judikative": True,
+        "Exekutive": False,
+        "Presse": False,
+        "Legislative": False
+      }
+    },
+    {
+      "F": "Wie nennt man in Deutschland ein Verfahren vor einem Gericht?",
+      "A": {
+        "Programm": False,
+        "Prozedur": False,
+        "Protokoll": False,
+        "Prozess": True
+      }
+    },
+    {
+      "F": "Was ist die Arbeit eines Richters/ einer Richterin in Deutschland?",
+      "A": {
+        "Deutschland regieren": False,
+        "Recht sprechen": True,
+        "Pläne erstellen": False,
+        "Gesetze erlassen": False
+      }
+    },
+    {
+      "F": "Was ist eine Aufgabe der Polizei in Deutschland?",
+      "A": {
+        "das Land zu verteidigen": False,
+        "die Bürgerinnen und Bürger abzuhören": False,
+        "die Gesetze zu beschließen": False,
+        "die Einhaltung von Gesetzen zu überwachen": True
+      }
+    },
+    {
+      "F": "Wer kann Gerichtsschöffe/ Gerichtsschöffin in Deutschland werden?",
+      "A": {
+        "alle in Deutschland geborenen Einwohner / Einwohnerinnen über 18 Jahre": False,
+        "alle deutschen Staatsangehörigen älter als 24 und jünger als 70 Jahre": True,
+        "alle Personen, die seit mindestens 5 Jahren in Deutschland leben": False,
+        "nur Personen mit einem abgeschlossenen Jurastudium": False
+      }
+    },
+    {
+      "F": "Ein Gerichtsschöffe/ eine Gerichtsschöffin in Deutschland ist...",
+      "A": {
+        "der Stellvertreter / die Stellvertreterin des Stadtoberhaupts.": False,
+        "ein ehrenamtlicher Richter / eine ehrenamtliche Richterin.": True,
+        "ein Mitglied eines Gemeinderats.": False,
+        "eine Person, die Jura studiert hat.": False
+      }
+    },
   ]
 }
