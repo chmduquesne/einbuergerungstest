@@ -1361,5 +1361,14 @@
         "eine Person, die Jura studiert hat.": False
       }
     },
+    {
+      "F": "Wer baute die Mauer in Berlin?",
+      "A": {
+        "Großbritannien": False,
+        "die DDR": True,
+        "die Bundesrepublik Deutschland": False,
+        "die USA": False
+      }
+    },
   ]
 }
