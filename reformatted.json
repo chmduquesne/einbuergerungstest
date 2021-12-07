@@ -1696,4 +1696,64 @@
     ],
     "R": 3
   },
+  {
+    "F": "Was gab es während der Zeit des Nationalsozialismus in Deutschland?",
+    "A": [
+      "das Verbot von Parteien",
+      "das Recht zur freien Entfaltung der Persönlichkeit",
+      "Pressefreiheit",
+      "den Schutz der Menschenwürde"
+    ],
+    "R": 1
+  },
+  {
+    "F": "Soziale Marktwirtschaft bedeutet, die Wirtschaft...",
+    "A": [
+      "steuert sich allein nach Angebot und Nachfrage.",
+      "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.",
+      "richtet sich nach der Nachfrage im Ausland.",
+      "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich."
+    ],
+    "R": 4
+  },
+  {
+    "F": "In welcher Besatzungszone wurde die DDR gegründet? In der...",
+    "A": [
+      "amerikanischen Besatzungszone",
+      "französischen Besatzungszone",
+      "britischen Besatzungszone",
+      "sowjetischen Besatzungszone"
+    ],
+    "R": 4
+  },
+  {
+    "F": "Die Bundesrepublik Deutschland ist ein Gründungsmitglied...",
+    "A": [
+      "des Nordatlantikpakts (NATO).",
+      "der Vereinten Nationen (VN).",
+      "der Europäischen Union (EU).",
+      "des Warschauer Pakts. "
+    ],
+    "R": 3
+  },
+  {
+    "F": "Wann wurde die DDR gegründet?",
+    "A": [
+      "1947",
+      "1949",
+      "1953",
+      "1956"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?",
+    "A": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "R": 2
+  },
 ]
