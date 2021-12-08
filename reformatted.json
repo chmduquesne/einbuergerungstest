@@ -2864,6 +2864,246 @@
       "die Betriebsgruppe",
       "das Betriebsmanagement"
     ],
+    "R": 1
+  },
+  {
+    "F": "Sie möchten bein einer Firma in Deutschland Ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?",
+    "A": [
+      "die Gehaltszahlungen",
+      "die Arbeitszeit",
+      "die Kündigungsfrist",
+      "die Versícherungspflicht"
+    ],
+    "R": 3
+  },
+  {
+    "F": "Bei welchem Amt muss man in Deutschland in der Regel seinen Hund anmelden?",
+    "A": [
+      "beim Finanzamt",
+      "beim Einwohnermeldeamt",
+      "bei der Kommune (Stadt oder Gemeinde)",
+      "beim Gesundheitsamt"
+    ],
+    "R": 3
+  },
+  {
+    "F": "Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil...",
+    "A": [
+      "seine Deutschkenntnisse zu gering sind.",
+      "er zu hohe Gehaltsvorstellungen hat.",
+      "er eine dunkle Haut hat.",
+      "er keine Erfahrungen im Beruf hat."
+    ],
+    "R": 3
+  },
+  {
+    "F": "Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?",
+    "A": [
+      "eine Anzeige schreiben",
+      "den Fernseher reklamieren",
+      "das Gerät ungefragt austauschen",
+      "die Garantie verlängern"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil...",
+    "A": [
+      "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
+      "das für die Statistik in Deutschland wichtig ist.",
+      "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.",
+      "die Kirche für die Steuererklärung verantwortlich ist."
+    ],
+    "R": 1
+  },
+  {
+    "F": "Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?",
+    "A": [
+      "Es dürfen keine Moscheen gebaut werden.",
+      "Alle Menschen glauben an Gott.",
+      "Jeder kann glauben, was er möchte.",
+      "Der Staat entscheidet, an welchen Gott die Menschen glauben."
+    ],
+    "R":
+  },
+  {
+    "F": "Was ist in Deutschland ein Brauch an Ostern?",
+    "A": [
+      "Kürbisse vor die Tür stellen",
+      "einen Tannenbaum schmücken",
+      "Eier bemalen",
+      "Raketen in die Luft schießen"
+    ],
+    "R": 3
+  },
+  {
+    "F": "Pfingsten ist ein...",
+    "A": [
+      "christlicher Feiertag.",
+      "deutscher Gedenktag.",
+      "internationaler Trauertag.",
+      "bayerischer Brauch."
+    ],
+    "R":
+  },
+  {
+    "F": "Welche Religion hat die europäische und deutsche Kultur geprägt?",
+    "A": [
+      "der Hinduismus",
+      "das Christentum",
+      "der Buddhismus",
+      "der Islam"
+    ],
+    "R": 2
+  },
+  {
+    "F": "In Deutschland nennt man die letzen vier Wochen vor Weihnachten",
+    "A": [
+      "den Buß- und Bettag.",
+      "das Erntedankfest.",
+      "die Adventszeit.",
+      "Allerheiligen."
+    ],
+    "R":
+  },
+  {
+    "F": "Aus welchem Land sind die meisten Migranten/ Migrantinnen nach Deutschland gekommen?",
+    "A": [
+      "Italien",
+      "Polen",
+      "Marokko",
+      "Türkei"
+    ],
+    "R": 4
+  },
+  {
+    "F": "In der DDR lebten vor allem Migranten aus...",
+    "A": [
+      "Vietnam, Polen, Mosambik.",
+      "Frankreich, Rumänien, Somalia. ",
+      "Chile, Ungarn, Simbabwe. ",
+      "Nordkorea, Mexiko, Ägypten. "
+    ],
+    "R":
+  },
+  {
+    "F": "Ausländische Arbeitnehmer und Arbeitnehmerinnen, die in den 50er- und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man...",
+    "A": [
+      "Schwarzarbeiter / Schwarzarbeiterinnen.",
+      "Gastarbeiter / Gastarbeiterinnen.",
+      "Zeitarbeiter /Zeitarbeiterinnen.",
+      "Schichtarbeiter / Schichtarbeiterinnen."
+    ],
+    "R": 2
+  },
+  {
+    "F": "Aus welchem Land kamen die ersten Gastarbeiter/ Gastarbeiterinnen in die Bundesrepubblik Deutschland?",
+    "A": [
+      "Italien",
+      "Spanien",
+      "Portugal",
+      "Türkei"
+    ],
+    "R": 1
+  },
+  {
+    "F": "Welches Wappen gehört zum Freistaat Bayern? http://oet.bamf.de/pls/oetut/f?p=514:30:0::NO:::",
+    "A": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Welches ist ein Landkreis in Bayern?",
+    "A": [
+      "Prignitz",
+      "Rhein-Sieg-Kreis",
+      "Nordfriesland",
+      "Altötting"
+    ],
+    "R": 4
+  },
+  {
+    "F": "Für wie viele Jahre wird der Landtag in Bayern gewählt?",
+    "A": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "R": 5
+  },
+  {
+    "F": "Ab welchem Alter darf man in Bayern Kommunalwahlen wählen?",
+    "A": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "R":
+  },
+  {
+    "F": "Welche Farben hat die Landesflagge von Bayern?",
+    "A": [
+      "blau-weiß-rot",
+      "weiß-blau ",
+      "grün-weiß-rot",
+      "schwarz-gelb"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Wo können Sie sich in Bayern über politische Themen informieren?",
+    "A": [
+      "beim Ordnungsamt der Gemeinde",
+      "bei der Landeszentrale für politische Bildung ",
+      "bei der Verbraucherzentrale",
+      "bei den Kirchen"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Die Landehauptstadt von Bayern heißt...",
+    "A": [
+      "Ingolstadt.",
+      "Regensburg.",
+      "Nürnberg.",
+      "München."
+    ],
+    "R":
+  },
+  {
+    "F": "Welches Bundesland ist Bayern? http://oet.bamf.de/pls/oetut/f?p=514:30:0::NO:::",
+    "A": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "R": 4
+  },
+  {
+    "F": "Wie nennt man den Regierungschef/ die Regierungschefin in Bayern?",
+    "A": [
+      "Erster Minister/ Erste Ministerin",
+      "Premierminister/ Premierministerin",
+      "Bürgermeister/ Bürgermeisterin",
+      "Ministerpräsident/ Ministerpräsidentin"
+    ],
+    "R":
+  },
+  {
+    "F": "Welchen Minister/ welche Ministerin hat Bayern nicht?",
+    "A": [
+      "Justizminister/ Justizministerin ",
+      "Außenminister/ Außenministerin",
+      "Finanzminister/ Finanzministerin",
+      "Innenminister/ Innenministerin"
+    ],
     "R":
   },
 ]
