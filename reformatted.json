@@ -2626,4 +2626,134 @@
     ],
     "R":
   },
+  {
+    "F": "In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, ...",
+    "A": [
+      "werden bestraft.",
+      "werden wie Erwachsene behandelt.",
+      "teilen die Strafe mit ihren Eltern.",
+      "werden nicht bestraft."
+    ],
+    "R":
+  },
+  {
+    "F": "Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?",
+    "A": [
+      "am Rosenmontag",
+      "am Maifeiertag",
+      "beim Oktoberfest",
+      "an Pfingsten"
+    ],
+    "R": 1
+  },
+  {
+    "F": "Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?",
+    "A": [
+      "zum Einwohnermeldeamt",
+      "zum Ordnungsamt",
+      "zur Agentur für Arbeit",
+      "zum Standesamt"
+    ],
+    "R":
+  },
+  {
+    "F": "Wann beginnt die gesetzliche Nachtruhe in Deutschland?",
+    "A": [
+      "wenn die Sonne untergeht",
+      "wenn die Nachbarn schlafen gehen",
+      "um 0 Uhr, Mitternacht",
+      "um 22 Uhr"
+    ],
+    "R": 4
+  },
+  {
+    "F": "Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?",
+    "A": [
+      "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
+      "Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.",
+      "Sie können zur Polizei gehen und die Tochter anzeigen.",
+      "Sie suchen einen anderen Mann für die Tochter."
+    ],
+    "R": 1
+  },
+  {
+    "F": "Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?",
+    "A": [
+      "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.",
+      "Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.",
+      "Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.",
+      "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl."
+    ],
+    "R": 4
+  },
+  {
+    "F": "In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf",
+    "A": [
+      "monatliches Taschengeld.",
+      "einen Platz in einem Sportverein.",
+      "einen Kindergartenplatz.",
+      "einen Ferienpass."
+    ],
+    "R": 2
+  },
+  {
+    "F": "Die Volkshochschule in Deutschland ist eine Einrichtung...",
+    "A": [
+      "für den Religionsunterricht.",
+      "nur für Jugendliche.",
+      "zur Weiterbildung.",
+      "nur für Rentner und Rentnerinnen."
+    ],
+    "R": 3
+  },
+  {
+    "F": "Was ist in Deutschland ein Brauch zu Weihnachten?",
+    "A": [
+      "bunte Eier verstecken",
+      "einen Tannenbaum schmücken",
+      "sich mit Masken und Kostümen verkleiden",
+      "Kürbisse vor die Tür stellen"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Welche Lebensforme ist in Deutschland nicht erlaubt?",
+    "A": [
+      "Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.",
+      "Zwei Frauen leben zusammen.",
+      "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.",
+      "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet."
+    ],
+    "R":
+  },
+  {
+    "F": "Bei Erziehungsproblemen gehen Sie in Deutschland...",
+    "A": [
+      "zum Arzt / zur Ärztin.",
+      "zum Gesundheitsamt.",
+      "zum Einwohnermeldeamt.",
+      "zum Jugendamt."
+    ],
+    "R": 4
+  },
+  {
+    "F": "Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine ander Person adressiert ist. Was haben Sie nicht beachtet?",
+    "A": [
+      "das Schweigerecht",
+      "das Briefgeheimnis",
+      "die Schweigepflicht",
+      "die Meinungsfreiheit"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Was braucht man in Deutschland für eine Ehescheidung?",
+    "A": [
+      "die Einwilligung der Eltern",
+      "ein Attest eines Arztes / einer Ärztin",
+      "die Einwilligung der Kinder",
+      "die Unterstützung eines Anwalts / einer Anwältin"
+    ],
+    "R": 4
+  },
 ]
