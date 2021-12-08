@@ -2006,4 +2006,624 @@
     ],
     "R": 3
   },
+  {
+    "F": "Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früherer DDR gehörten?",
+    "A": [
+      "Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg",
+      "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
+      "Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen",
+      "Sachsen, Thüringen, Hessen, Niedersachen, Brandenburg"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Zu wem gehörte die DDR im „Kalten Krieg“",
+    "A": [
+      "zu den Westmächten",
+      "zum Warschauer Pakt",
+      "zur NATO",
+      "zu den blockfreien Staaten"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Wie hieß das Wirtschaftssystem der DDR?",
+    "A": [
+      "Marktwirtschaft",
+      "Planwirtschaft",
+      "Angebot und Nachfrage",
+      "Kapitalismus"
+    ],
+    "R":
+  },
+  {
+    "F": "Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?",
+    "A": [
+      "Die Bundesrepublik hat die DDR besetzt.",
+      "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
+      "Die westlichen Bundesländer sind der DDR beigetreten.",
+      "Die DDR hat die Bundesrepublik Deutschland besetzt."
+    ],
+    "R":
+  },
+  {
+    "F": "Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch...",
+    "A": [
+      "zur Europäischen Union.",
+      "zum Warschauer Pakt.",
+      "zur OPEC.",
+      "zur Europäischen Verteidigungsgemeinschaft."
+    ],
+    "R": 1
+  },
+  {
+    "F": "Was bedeutet im Jahr 1989 in Deutschland das Wort „Montagsdemonstration“?",
+    "A": [
+      "In der Bundesrepublik waren Demonstrationen nur am Montag erlaubt.",
+      "Montags waren Demonstrationen gegen das DDR-Regime.",
+      "Am ersten Montag im Monat trafen sich in der Bundesrepublik Deutschland Demonstranten.",
+      "Montags demonstrierte man in der DDR gegen den Westen."
+    ],
+    "R": 2
+  },
+  {
+    "F": "In welchem Militärbündnis war die DDR Mitglied?",
+    "A": [
+      "in der NATO",
+      "im Rheinbund",
+      "im Warschauer Pakt",
+      "im Europabündnis"
+    ],
+    "R": 3
+  },
+  {
+    "F": "Was war die „Stasi“?",
+    "A": [
+      "der Geheimdienst im „Dritten Reich“",
+      "eine berühmte deutsche Gedenkstätte",
+      "der Geheimdienst der DDR ",
+      "ein deutscher Sportverein während des Zweiten Weltkrieges"
+    ],
+    "R": 3
+  },
+  {
+    "F": "Welches war das Wappen der Deutschen Demokratischen Republik? http://oet.bamf.de/pls/oetut/f?p=514:30:0::NO:::",
+    "A": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "R": 4
+  },
+  {
+    "F": "Was ereignete sich am 17. Juni 1953 in der DDR?",
+    "A": [
+      "der feierliche Beitritt zum Warschauer Pakt",
+      "landesweite Streiks und ein Volksaufstand",
+      "der 1. SED-Parteitag",
+      "der erste Besuch Fidel Castros "
+    ],
+    "R": 2
+  },
+  {
+    "F": "Welcher Politiker steht für die „Ostverträge“?",
+    "A": [
+      "Helmut Kohl",
+      "Willy Brandt",
+      "Michail Gorbatschow",
+      "Ludwig Erhard"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Wie heißt Deutschland mit vollem Namen?",
+    "A": [
+      "Bundesstaat Deutschland",
+      "Bundesländer Deutschland",
+      "Bundesrepublik Deutschland",
+      "Bundesbezirk Deutschland"
+    ],
+    "R": 3
+  },
+  {
+    "F": "Wie viele Einwohner hat Deutschland?",
+    "A": [
+      "70 Millionen",
+      "78 Millionen",
+      "80 Millionen",
+      "90 Millionen"
+    ],
+    "R": 3
+  },
+  {
+    "F": "Welche Farben hat die deutsche Flagge?",
+    "A": [
+      "schwarz-rot-gold",
+      "rot-weiß-schwarz",
+      "schwarz-rot-grün",
+      "schwarz-gelb-rot"
+    ],
+    "R": 1
+  },
+  {
+    "F": "Wer wird als „Kanzler der Deutschen Einheit“ bezeichnet?",
+    "A": [
+      "Gerhard Schröder",
+      "Helmut Kohl",
+      "Konrad Adenauer",
+      "Helmut Schmidt"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen?",
+    "A": [
+      "der Bundesadler.",
+      "die Fahne der Stadt Berlin.",
+      "der Reichsadler.",
+      "die Reichskrone."
+    ],
+    "R": 1
+  },
+  {
+    "F": "In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?",
+    "A": [
+      "1919 bis 1927",
+      "1933 bis 1945",
+      "1945 bis 1961",
+      "1949 bis 1990"
+    ],
+    "R": 4
+  },
+  {
+    "F": "Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?",
+    "A": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "R": 5
+  },
+  {
+    "F": "Die Bundesrepublik Deutschland hat die Grenzen von heute seit...",
+    "A": [
+      "1933",
+      "1949",
+      "1971",
+      "1990"
+    ],
+    "R":
+  },
+  {
+    "F": "Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?",
+    "A": [
+      "an das Ende des Zweiten Weltkrieges",
+      "an die Verabschiedung des Grundgesetzes",
+      "an die Wiedervereinigung Deutschlands",
+      "an die Opfer des Nationalsozialismus"
+    ],
+    "R": 4
+  },
+  {
+    "F": "Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?",
+    "A": [
+      "Deutsche können in viele Länder Europas ohne Passkontrolle reisen.",
+      "Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.",
+      "Deutsche können ohne Passkontrolle in jedes Land reisen.",
+      "Deutsche können in jedem Land mit dem Euro bezahlen."
+    ],
+    "R": 1
+  },
+  {
+    "F": "Welches Land ist ein Nachbarland von Deutschland?",
+    "A": [
+      "Ungarn",
+      "Portugal",
+      "Spanien",
+      "Schweiz"
+    ],
+    "R": 4
+  },
+  {
+    "F": "Welches Land ist ein Nachbarland von Deutschland?",
+    "A": [
+      "Rumänien",
+      "Bulgarien",
+      "Polen",
+      "Griechenland"
+    ],
+    "R": 3
+  },
+  {
+    "F": "Was bedeutet die Abkürzung EU?",
+    "A": [
+      "Europäische Unternehmen",
+      "Europäische Union",
+      "Einheitliche Union",
+      "Euro Union"
+    ],
+    "R": 2
+  },
+  {
+    "F": "In welchem anderen Land gibt es eine große deutschsprachige Bevölkerung?",
+    "A": [
+      "Tschechien",
+      "Norwegen",
+      "Spanien",
+      "Österreich"
+    ],
+    "R": 4
+  },
+  {
+    "F": "Welche ist die Flagge der Europäischen Union? http://oet.bamf.de/pls/oetut/f?p=514:30:0::NO:::",
+    "A": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Welches Land ist ein Nachbarland von Deutschland?",
+    "A": [
+      "Finnland",
+      "Dänemark",
+      "Norwegen",
+      "Schweden"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?",
+    "A": [
+      "NATO-Osterweiterung ",
+      "EU-Osterweiterung",
+      "Deutsche Wiedervereinigung",
+      "Europäische Gemeinschaft"
+    ],
+    "R": 3
+  },
+  {
+    "F": "Welches Land ist ein Nachbarland von Deutschland?",
+    "A": [
+      "Spanien",
+      "Bulgarien",
+      "Norwegen",
+      "Luxemburg"
+    ],
+    "R": 4
+  },
+  {
+    "F": "Das Europäische Parlament wird regelmäßig gewählt, nämlich all...",
+    "A": [
+      "5 Jahre.",
+      "6 Jahre.",
+      "7 Jahre.",
+      "8 Jahre."
+    ],
+    "R": 1
+  },
+  {
+    "F": "Was bedeutet der Begriff „europäische Integration“?",
+    "A": [
+      "Damit sind amerikanische Einwanderer in Europa gemeint.",
+      "Der Begriff meint den Einwanderungsstopp nach Europa.",
+      "Damit sind europäische Auswanderer in den USA gemeint.",
+      "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU."
+    ],
+    "R": 4
+  },
+  {
+    "F": "Wer wird bei der Europawahl gewählt?",
+    "A": [
+      "die Europäische Kommission",
+      "die Länder, die in die EU eintreten dürfen",
+      "die Abgeordneten des Europäischen Parlaments",
+      "die europäische Verfassung"
+    ],
+    "R": 3
+  },
+  {
+    "F": "Welches Land ist ein Nachbarland von Deutschland?",
+    "A": [
+      "Tschechien",
+      "Bulgarien",
+      "Griechenland",
+      "Portugal"
+    ],
+    "R": 1
+  },
+  {
+    "F": "Wo ist der Sitz des Europäischen Parlaments?",
+    "A": [
+      "London",
+      "Paris",
+      "Berlin",
+      "Straßburg"
+    ],
+    "R":
+  },
+  {
+    "F": "Der französiche Staatspräsident François Mitterand und der deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich? http://oet.bamf.de/pls/oetut/f?p=514:30:0::NO:::",
+    "A": [
+      "Freundschaft zwischen England und Deutschland",
+      "Reisefreiheit in alle Länder der EU",
+      "Frieden und Sicherheit in den Ländern der EU",
+      "einheitliche Feiertage in den Ländern der EU"
+    ],
+    "R": 3
+  },
+  {
+    "F": "Wie viele Mitgliedstaaten hat die EU heute?",
+    "A": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "R": 4
+  },
+  {
+    "F": "2007 wurde das 50-jährige Jubiläum der „Römischen Verträge“ gefeiert. Was war der Inhalt der Verträge?",
+    "A": [
+      "Beitritt Deutschlands zur NATO",
+      "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
+      "Verpflichtung Deutschlands zu Reparationsleistungen",
+      "Festlegung der Oder-Neiße-Linie als Ostgrenze"
+    ],
+    "R": 2
+  },
+  {
+    "F": "An welchem Orten arbeitet das Europäische Parlament?",
+    "A": [
+      "Paris, London und Den Haag",
+      "Straßburg, Luxemburg und Brüssel",
+      "Rom, Bern und Wien",
+      "Bonn, Zürich und Mailand"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?",
+    "A": [
+      "durch die „Hamburger Verträge“",
+      "durch die „Römischen Verträge“",
+      "durch die „Pariser Verträge“",
+      "durch die „Londoner Verträge“"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Seit wann bezahlt man in Deutschland mit dem Euro in bar?",
+    "A": [
+      "1995",
+      "1998",
+      "2002",
+      "2005"
+    ],
+    "R": 3
+  },
+  {
+    "F": "Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?",
+    "A": [
+      "Sie muss an ihre Krankenkasse schreiben.",
+      "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
+      "Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.",
+      "Sie muss das Arbeitsamt um Erlaubnis bitten."
+    ],
+    "R": 2
+  },
+  {
+    "F": "Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?",
+    "A": [
+      "der Staat",
+      "die Bundesländer",
+      "die Eltern/die Erziehungsberechtigten",
+      "die Schulen"
+    ],
+    "R": 3
+  },
+  {
+    "F": "Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?",
+    "A": [
+      "Sie müssen die Demonstration anmelden.",
+      "Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.",
+      "Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.",
+      "Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen."
+    ],
+    "R": 1
+  },
+  {
+    "F": "Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?",
+    "A": [
+      "das Abitur",
+      "ein Diplom",
+      "die Prokura",
+      "eine Gesellenprüfung"
+    ],
+    "R": 1
+  },
+  {
+    "F": "Wer darf in Deutschland nicht als Paar zusammenleben?",
+    "A": [
+      "Hans (20 Jahre) und Marie (19 Jahre)",
+      "Tom (20 Jahre) und Klaus (45 Jahre)",
+      "Sofie (35 Jahre) und Lisa (40 Jahre) ",
+      "Anne (13 Jahre) und Tim (25 Jahre)"
+    ],
+    "R": 4
+  },
+  {
+    "F": "Ab welchem Alter ist man ein Deutschland volljärig?",
+    "A": [
+      "16",
+      "18",
+      "19",
+      "21"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?",
+    "A": [
+      "Elternzeit",
+      "Mutterschutz",
+      "Geburtsvorbereitung",
+      "Wochenbett"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Die Erziehung der Kinder in Deutschland ist vor allem Aufgabe...",
+    "A": [
+      "des Staates.",
+      "der Eltern.",
+      "der Großeltern.",
+      "der Schulen."
+    ],
+    "R": 2
+  },
+  {
+    "F": "Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?",
+    "A": [
+      "der Staat",
+      "die Eltern",
+      "die Verwandten",
+      "die Schulen"
+    ],
+    "R": 2
+  },
+  {
+    "F": "In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man...",
+    "A": [
+      "katholisch ist.",
+      "gut ausgebildet ist.",
+      "eine Frau ist.",
+      "Mitglied einer Partei ist."
+    ],
+    "R": 2
+  },
+  {
+    "F": "Wenn man in Deutschland ein Kind schlägt, ...",
+    "A": [
+      "geht das niemanden etwas an.",
+      "geht das nur die Familie etwas an.",
+      "kann man dafür nicht bestraft werden.",
+      "kann man dafür bestraft werden."
+    ],
+    "R":
+  },
+  {
+    "F": "In Deutschland...",
+    "A": [
+      "darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin verheiratet sein.",
+      "kann man mehrere Ehepartner / Ehepartnerinnen gleichzeitig haben.",
+      "darf man nicht wieder heiraten, wenn man einmal verheiratet war.",
+      "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist."
+    ],
+    "R": 1
+  },
+  {
+    "F": "Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?",
+    "A": [
+      "beim Einwohnermeldeamt",
+      "beim Standesamt",
+      "beim Ordnungsamt",
+      "beim Gewerbeamt"
+    ],
+    "R":
+  },
+  {
+    "F": "In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das „Trennungsjahr“ einhalten. Was bedeutet das?",
+    "A": [
+      "Der Scheidungsprozess dauert ein Jahr.",
+      "Mann und Frau sind ein Jahr verheiratet, dann ist die Scheidung möglich.",
+      "Das Besuchsrecht für die Kinder gilt ein Jahr.",
+      "Mann und Frau führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich."
+    ],
+    "R": 4
+  },
+  {
+    "F": "Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom...",
+    "A": [
+      "Ordnungsamt.",
+      "Schulamt.",
+      "Jugendamt.",
+      "Gesundheitsamt."
+    ],
+    "R": 3
+  },
+  {
+    "F": "Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?",
+    "A": [
+      "eine Erlaubnis der Polizei",
+      "eine Genehmigung einer Partei",
+      "eine Genehmigung des Einwohnermeldeamts",
+      "eine Gaststättenerlaubnis von der zuständigen Behörde"
+    ],
+    "R": 4
+  },
+  {
+    "F": "Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an...",
+    "A": [
+      "einer Hochschule.",
+      "einem Abendgymnasium.",
+      "einer Hauptschule.",
+      "einer Privatuniversität."
+    ],
+    "R": 2
+  },
+  {
+    "F": "Was darf das Jugendamt in Deutschland?",
+    "A": [
+      "Es entscheidet, welche Schule das Kind besucht.",
+      "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+      "Es bezahlt das Kindergeld an die Eltern.",
+      "Es kontrolliert, ob das Kind einen Kindergarten besucht."
+    ],
+    "R":
+  },
+  {
+    "F": "Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der...",
+    "A": [
+      "Rentenberechnung.",
+      "Lehrstellensuche.",
+      "Steuererklärung.",
+      "Krankenversicherung."
+    ],
+    "R": 2
+  },
+  {
+    "F": "In Deutschland hat ein Kind in der Schule...",
+    "A": [
+      "Recht auf unbegrenzte Freizeit.",
+      "Wahlfreiheit für alle Fächer.",
+      "Anspruch auf Schulgeld.",
+      "Anwesenheitspflicht."
+    ],
+    "R": 4
+  },
+  {
+    "F": "Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An...",
+    "A": [
+      "einer Hochschule",
+      "einem Abendgymnasium",
+      "einer Hauptschule",
+      "einer Privatuniversität"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?",
+    "A": [
+      "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
+      "Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.",
+      "Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.",
+      "Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden."
+    ],
+    "R":
+  },
 ]
