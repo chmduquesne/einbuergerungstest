@@ -2756,4 +2756,114 @@
     ],
     "R": 4
   },
+  {
+    "F": "Was sollten Sie tun, wenn Sie von Ihrem Ansprechpartner/ Ihrer Ansprechpartnerin in einer deutschen Behörde schlecht behandelt werden?",
+    "A": [
+      "Ich kann nichts tun.",
+      "Ich muss mir diese Behandlung gefallen lassen.",
+      "Ich drohe der Person.",
+      "Ich kann mich beim Behördenleiter / bei der Behördenleiterin beschweren."
+    ],
+    "R": 4
+  },
+  {
+    "F": "Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie...",
+    "A": [
+      "kein Englisch spricht.",
+      "zu hohe Gehaltsvorstellungen hat.",
+      "keine Erfahrungen in diesem Beruf hat.",
+      "Mutter ist."
+    ],
+    "R": 4
+  },
+  {
+    "F": "Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stell nur deshalb nicht, weil er...",
+    "A": [
+      "im Rollstuhl sitzt.",
+      "keine Erfahrung hat.",
+      "zu hohe Gehaltsvorstellungen hat.",
+      "kein Englisch spricht."
+    ],
+    "R": 1
+  },
+  {
+    "F": "In den meisten Miethäusern in Deutschland gibt es eine „Hausordnung“. Was steht in einer solchen „Hausordnung“? Sie nennt...",
+    "A": [
+      "Regeln für die Benutzung öffentlicher Verkehrsmittel.",
+      "alle Mieter und Mieterinnen im Haus.",
+      "Regeln, an die sich alle Bewohner und Bewohnerinnen halten müssen. ",
+      "die Adresse des nächsten Ordnungsamtes."
+    ],
+    "R": 3
+  },
+  {
+    "F": "Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, müssen Sie...",
+    "A": [
+      "nichts machen.",
+      "den Bescheid wegwerfen.",
+      "Einspruch einlegen.",
+      "warten, bis ein anderer Bescheid kommt."
+    ],
+    "R": 3
+  },
+  {
+    "F": "Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland Beide haben eine dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser Situation verletzt? Das recht auf...",
+    "A": [
+      "Meinungsfreiheit.",
+      "Gleichbehandlung.",
+      "Versammlungsfreiheit.",
+      "Freizügigkeit."
+    ],
+    "R": 2
+  },
+  {
+    "F": "Welches Ehrenamt müssen deutsche Staatsbürger/ Staatsbürgerinnen übernehmen, wenn sie dazu aufgefordert werden?",
+    "A": [
+      "Vereinstrainer / Vereinstrainerin",
+      "Wahlhelfer / Wahlhelferin",
+      "Bibliotheksaufsicht",
+      "Lehrer / Lehrerin"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Behörde bekommen?",
+    "A": [
+      "Ich lasse die Rechnung liegen.",
+      "Ich lege Widerspruch bei der Behörde ein.",
+      "Ich schicke die Rechnung an die Behörde zurück.",
+      "Ich gehe mit der Rechnung zum Finanzamt."
+    ],
+    "R": 2
+  },
+  {
+    "F": "Was man für die Arbeit können muss, ändert sich in Zukunft sehr schnell. Was kann man tun?",
+    "A": [
+      "Es ist egal, was man lernt.",
+      "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
+      "Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.",
+      "Alle müssen früher aufhören zu arbeiten, weil sich alles ändert."
+    ],
+    "R": 2
+  },
+  {
+    "F": "Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie nicht von ihrem Gehalt bezahlen?",
+    "A": [
+      "Lohnsteuer",
+      "Beiträge zur Arbeitslosenversicherung",
+      "Beiträge zur Renten- und Krankenversicherung",
+      "Umsatzsteuer"
+    ],
+    "R": 4
+  },
+  {
+    "F": "Welche Organisation in einer Firma hilft den Arbeitnehmern und Arbeitnehmerinnen bein Problemen mit dem Arbeitgeber/ der Arbeitgeberin",
+    "A": [
+      "der Betriebsrat",
+      "der Betriebsprüfer / die Betriebsprüferin",
+      "die Betriebsgruppe",
+      "das Betriebsmanagement"
+    ],
+    "R":
+  },
 ]
