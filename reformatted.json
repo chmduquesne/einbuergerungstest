@@ -1,4 +1,4 @@
-// “”
+// „“
 [
   {
     "F": "",
@@ -131,7 +131,7 @@
     ]
   },
   {
-    "F": "Im Parlament steht der Begriff “Opposition” für...",
+    "F": "Im Parlament steht der Begriff „Opposition“ für...",
     "R": 4,
     "A": [
       "die regierenden Parteien.",
@@ -191,7 +191,7 @@
     ]
   },
   {
-    "F": "Was versteht man unter dem Recht der “Freizügigkeit” in Deutschland?",
+    "F": "Was versteht man unter dem Recht der „Freizügigkeit“ in Deutschland?",
     "R": 1,
     "A": [
       "Man darf sich seinen Wohnort selbst aussuchen.",
@@ -517,7 +517,7 @@
     ]
   },
   {
-    "F": "Was bedeutet “Volkssouveränität”? Alle Staatsgewalt geht vom",
+    "F": "Was bedeutet „Volkssouveränität“? Alle Staatsgewalt geht vom",
     "R": 1,
     "A": [
       "Volke aus.",
@@ -527,7 +527,7 @@
     ]
   },
   {
-    "F": "Was bedeutet “Rechtsstaat” in Deutschland?",
+    "F": "Was bedeutet „Rechtsstaat“ in Deutschland?",
     "R": 4,
     "A": [
       "Der Staat hat Recht",
@@ -587,7 +587,7 @@
     ]
   },
   {
-    "F": "Welche Parteien wurden in Deutschland 2007 zur Partei “Die Linke”?",
+    "F": "Welche Parteien wurden in Deutschland 2007 zur Partei „Die Linke“?",
     "R": 2,
     "A": [
       "CDU und SSW ",
@@ -607,7 +607,7 @@
     ]
   },
   {
-    "F": "Was bedeutet “Volkssouveränität”?",
+    "F": "Was bedeutet „Volkssouveränität“?",
     "R": 4,
     "A": [
       "Der König / die Königin herrscht über das Volk.",
@@ -927,7 +927,7 @@
     ]
   },
   {
-    "F": "Je mehr “Zweistimmen” eine Partei bei einer Bundestagswahl bekommt, desto...",
+    "F": "Je mehr „Zweistimmen“ eine Partei bei einer Bundestagswahl bekommt, desto...",
     "R": 4,
     "A": [
       "weniger Erststimmen kann sie haben.",
@@ -1023,11 +1023,11 @@
       "Bundesverdienstkreuz",
       "Bundesadler",
       "Vaterländischen Verdienstorden",
-      "Ehrentitel “Held der Deutschen Demokratischen Republik”"
+      "Ehrentitel „Held der Deutschen Demokratischen Republik“"
     ]
   },
   {
-    "F": "Was wird in Deutschland als “Ampelkoalition” bezeichnet? Die Zusammenarbeit...",
+    "F": "Was wird in Deutschland als „Ampelkoalition“ bezeichnet? Die Zusammenarbeit...",
     "R": 2,
     "A": [
       "der Bundestagsfraktionen von CDU und CSU",
@@ -1147,7 +1147,7 @@
     ]
   },
   {
-    "F": "Was bedeutet “aktives Wahlrecht” in Deutschland?",
+    "F": "Was bedeutet „aktives Wahlrecht“ in Deutschland?",
     "R": 3,
     "A": [
       "Man kann gewählt werden.",
@@ -1227,7 +1227,7 @@
     ]
   },
   {
-    "F": "Was ist in Deutschland die “5%-Hürde”?",
+    "F": "Was ist in Deutschland die „5%-Hürde“?",
     "R": 3,
     "A": [
       "Abstimmungsregelung im Bundestag für kleine Parteien",
@@ -1577,7 +1577,7 @@
     "R": 1
   },
   {
-    "F": "Das “Dritte Reich” war eine...",
+    "F": "Das „Dritte Reich“ war eine...",
     "A": [
       "Diktatur.",
       "Demokratie.",
@@ -1657,7 +1657,7 @@
     "R": 1
   },
   {
-    "F": "Bei welchen Demonstrationen in Deutschland riefen die Menschen “Wir sind das Volk”?",
+    "F": "Bei welchen Demonstrationen in Deutschland riefen die Menschen „Wir sind das Volk“?",
     "A": [
       "beim Arbeiteraufstand 1953 in der DDR",
       "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
@@ -1667,7 +1667,7 @@
     "R": 4
   },
   {
-    "F": "Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als “Alliierte Besatzungsmächte” bezeichnet?",
+    "F": "Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als „Alliierte Besatzungsmächte“ bezeichnet?",
     "A": [
       "Sowjetunion, Großbritannien, Polen, Schweden",
       "Frankreich, Sowjetunion, Italien, Japan",
@@ -1677,7 +1677,7 @@
     "R": 4
   },
   {
-    "F": "Welches Land war keine “Alliierte Besatzungsmächt” in Deutschland?",
+    "F": "Welches Land war keine „Alliierte Besatzungsmächt“ in Deutschland?",
     "A": [
       "USA",
       "Sowjetunion",
@@ -1755,5 +1755,255 @@
       "6"
     ],
     "R": 2
+  },
+  {
+    "F": "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt? http://oet.bamf.de/pls/oetut/f?p=514:30:0::NO:::",
+    "A": [
+      "1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA ",
+      "1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich",
+      "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
+      "1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich"
+    ],
+    "R": 3
+  },
+  {
+    "F": "Welche deutsche Stadt wurde nach dem Zeiten Weltkrieg in vier Sektoren aufgeteilt?",
+    "A": [
+      "München",
+      "Berlin",
+      "Dresden",
+      "Frankfurt/Oder"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West-Berlin durch eine Luftbrücke versogt. Welcher Umstand war dafür verantwortlich?",
+    "A": [
+      "Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.",
+      "Die amerikanischen Soldaten / Soldatinnen hatten beim Landtransport Angst vor Überfällen. ",
+      "Für Großbritannien war die Versorgung über die Luftbrücke schneller. ",
+      "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege."
+    ],
+    "R": 4
+  },
+  {
+    "F": "Wie endete der Zweite Weltkrieg in Europa offiziel?",
+    "A": [
+      "mit dem Tod Adolf Hitlers",
+      "durch die bedingungslose Kapitulation Deutschlands",
+      "mit dem Rückzug der Deutschen aus den besetzten Gebieten",
+      "durch eine Revolution in Deutschland"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Der erste Bundeskanzler der Bundesrepublik Deutschland war...",
+    "A": [
+      "Ludwig Erhard.",
+      "Willy Brandt.",
+      "Konrad Adenauer.",
+      "Gerhard Schröder."
+    ],
+    "R": 3
+  },
+  {
+    "F": "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?",
+    "A": [
+      "Er hat sich den ehemaligen Alliierten unterworfen.",
+      "Er bat Polen und die polnischen Juden um Vergebung.",
+      "Er zeigte seine Demut vor dem Warschauer Pakt.",
+      "Er sprach ein Gebet am Grab des Unbekannten Soldaten. "
+    ],
+    "R": 2
+  },
+  {
+    "F": "Welche Parteien wurden 1946 zwangweise zur SED vereint, der Einheitspartei der späteren DDR?",
+    "A": [
+      "KPD und SPD",
+      "SPD und CDU",
+      "CDU und FDP",
+      "KPD und CSU"
+    ],
+    "R": 1
+  },
+  {
+    "F": "Wann war in der Bundesrepublik Deutschland das „Wirtschaftswundler“?",
+    "A": [
+      "40er Jahre",
+      "50er Jahre",
+      "70er Jahre",
+      "80er Jahre"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Was nannten die Menschen in Deutschland sehr lange „Die Stunde Null“?",
+    "A": [
+      "Damit wird die Zeit nach der Wende im Jahr 1989 bezeichnet.",
+      "Damit wurde der Beginn des Zweiten Weltkrieges bezeichnet.",
+      "Darunter verstand man das Ende des Zweiten Weltkrieges und den Beginn des Wiederaufbaus.",
+      "Damit ist die Stunde gemeint, in der die Uhr von der Sommerzeit auf die Winterzeit umgestellt wird."
+    ],
+    "R": 3
+  },
+  {
+    "F": "Wofür stand der Ausdruck „Eiserner Vorhang“? Für die Abschottung...",
+    "A": [
+      "des Warschauer Pakts gegen den Westen ",
+      "Norddeutschlands gegen Süddeutschland ",
+      "Nazi-Deutschlands gegen die Alliierten ",
+      "Europas gegen die USA"
+    ],
+    "R": 1
+  },
+  {
+    "F": "Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feirtag erinnerte. Wann war das?",
+    "A": [
+      "1. Mai",
+      "17. Juni",
+      "20. Juli",
+      "9. November"
+    ],
+    "R":
+  },
+  {
+    "F": "Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?",
+    "A": [
+      "Preußen",
+      "Bundesrepublik Deutschland",
+      "„Drittes Reich“",
+      "DDR"
+    ],
+    "R":
+  },
+  {
+    "F": "In welchem Jahr wurde die Mauer in Berlin gebaut?",
+    "A": [
+      "1953",
+      "1956",
+      "1959",
+      "1961"
+    ],
+    "R": 4
+  },
+  {
+    "F": "Wann baute die DDR die Mauer in Berlin?",
+    "A": [
+      "1919",
+      "1933",
+      "1961",
+      "1990"
+    ],
+    "R":
+  },
+  {
+    "F": "Was bedeutet die Abkürzung DDR?",
+    "A": [
+      "Dritter Deutscher Rundfunk",
+      "Die Deutsche Republik",
+      "Dritte Deutsche Republik",
+      "Deutsche Demokratische Republik"
+    ],
+    "R": 4
+  },
+  {
+    "F": "Wann wurde die Mauer in Berlin für alle geöffnet?",
+    "A": [
+      "1987",
+      "1989",
+      "1992",
+      "1995"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Welches heutige deutsches Bundesland gehörte früher zum Gebiet der DDR?",
+    "A": [
+      "Brandenburg",
+      "Bayern",
+      "Saarland",
+      "Hessen"
+    ],
+    "R": 1
+  },
+  {
+    "F": "Von 1961 bis 1989 war Berlin...",
+    "A": [
+      "ohne Bürgermeister.",
+      "ein eigener Staat.",
+      "durch eine Mauer geteilt.",
+      "nur mit dem Flugzeug erreichbar."
+    ],
+    "R":
+  },
+  {
+    "F": "Am 3. Oktober feiert man in Deutschland den Tag der Deutschen...",
+    "A": [
+      "Einheit.",
+      "Nation.",
+      "Bundesländer.",
+      "Städte."
+    ],
+    "R": 1
+  },
+  {
+    "F": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "A": [
+      "Hessen",
+      "Sachsen-Anhalt",
+      "Nordrhein-Westfalen",
+      "Saarland"
+    ],
+    "R": 2
+  },
+  {
+    "F": "Warum nennt man die Zeit im Herbst 1989 in der DDR „Die Wende“? In dieser Zeit veränderte sich die DDR politisch...",
+    "A": [
+      "von einer Diktatur zur Demokratie.",
+      "von einer liberalen Marktwirtschaft zum Sozialismus.",
+      "von einer Monarchie zur Sozialdemokratie.",
+      "von einem religiösen Staat zu einem kommunistischen Staat."
+    ],
+    "R": 1
+  },
+  {
+    "F": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "A": [
+      "Thüringen",
+      "Hessen",
+      "Bayern",
+      "Bremen"
+    ],
+    "R": 1
+  },
+  {
+    "F": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "A": [
+      "Bayern",
+      "Niedersachsen",
+      "Sachsen",
+      "Baden-Württemberg"
+    ],
+    "R": 3
+  },
+  {
+    "F": "Mit der Abkürzung „Stasi“ meinte man in der DDR...",
+    "A": [
+      "das Parlament.",
+      "das Ministerium für Staatssicherheit.",
+      "eine regierende Partei.",
+      "das Ministerium für Volksbildung. "
+    ],
+    "R": 2
+  },
+  {
+    "F": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
+    "A": [
+      "Hessen",
+      "Schleswig-Holstein",
+      "Mecklenburg-Vorpommern",
+      "Saarland"
+    ],
+    "R": 3
   },
 ]
